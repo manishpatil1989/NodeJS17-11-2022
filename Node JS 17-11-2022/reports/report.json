@@ -1,0 +1,170 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "sample-feature-which-help,-how-to-validate-a-api-respone-(status-code,-response-body-and-response-header);validate-api-response---response-status-and-response-header-and-body-(validate-specific-key)",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Validate API response - Response Status and Response Header and Body (validate specific Key)",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "I set all headers for the request",
+            "match": {
+              "location": "test/features/step_definitions/init.js:78"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "I set request header \"Accept\" to \"application/json\"",
+            "match": {
+              "location": "test/features/step_definitions/init.js:71"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 387000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "I set request header \"Content-Type\" to \"application/json\"",
+            "match": {
+              "location": "test/features/step_definitions/init.js:71"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 382000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "I invoke the endpoint /",
+            "match": {
+              "location": "test/features/step_definitions/init.js:157"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 158000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "validate response code should be 200",
+            "match": {
+              "location": "test/features/step_definitions/init.js:178"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "validate response header \"content-type\" should exist",
+            "match": {
+              "location": "test/features/step_definitions/init.js:184"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "validate response header \"hello/test\" should not exist",
+            "match": {
+              "location": "test/features/step_definitions/init.js:189"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "validate response body should contain \"postcode\"",
+            "match": {
+              "location": "test/features/step_definitions/init.js:196"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "validate response body should not contain \"hello\"",
+            "match": {
+              "location": "test/features/step_definitions/init.js:201"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@1111",
+            "line": 14
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sample-feature-which-help,-how-to-validate-a-api-respone-(status-code,-response-body-and-response-header)",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Sample feature which help, how to validate a API respone (status code, response body and response header)",
+    "tags": [],
+    "uri": "test/features/featureFiles/sampleResponseValidation.feature"
+  }
+]

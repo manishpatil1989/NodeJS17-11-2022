@@ -1,0 +1,36 @@
+{
+    "test-env": {
+        "data": {
+            "proxyname": {
+                "proxyname": "mock-qa-api",
+                "method": "GET",
+                "hostname": "postcodes.io",
+                "uri": "/postcodes/SL38NY",
+                "headers": {
+                    "Content-Type": "application/json"
+                },
+                "security": {
+                    "clientID": "",
+                    "clientSecret": "",
+                    "key": "path",
+                    "cert": "path"
+                }
+            },
+            "proxyname1": {
+                "proxyname": "mock-qa-api",
+                "method": "GET",
+                "hostname": "postcodes.io",
+                "uri": "/postcodes/SL38NY",
+                "headers": {
+                    "Content-Type": "application/json"
+                },
+                "security": {
+                    "clientID": "",
+                    "clientSecret": "",
+                    "key": "path",
+                    "cert": "path"
+                }
+            }
+        }
+    }
+}

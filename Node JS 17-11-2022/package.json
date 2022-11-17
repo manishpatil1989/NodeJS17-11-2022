@@ -1,0 +1,48 @@
+{
+    "name": "apickli",
+    "version": "3.0.2",
+    "description": "Collection of utility functions and a gherkin framework for REST API integration testing based on cucumber.js",
+    "main": "apickli.js",
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/apickli/apickli.git"
+    },
+    "keywords": [
+        "cucumber.js",
+        "integration",
+        "rest",
+        "api"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "lint": "npx eslint .",
+        "gen-report": "env=test-env proxy=proxyname  npx cucumber-js test/features/featureFiles/report.feature --tags @report",
+        "test": "env=test-env proxy=proxyname npx cucumber-js test/features/featureFiles/**.feature -f json:reports/report.json --tags",
+        "ci": "npm i && npm run lint && npm run test"
+    },
+    "dependencies": {
+        "ansi-regex": "6.0.1",
+        "apickli": "^3.0.1",
+        "chai": "^4.3.6",
+        "cli-columns": "4.0.0",
+        "cli-table3": "0.6.0",
+        "deep-equal-in-any-order": "^2.0.0",
+        "request-promise": "^4.2.6",
+        "string-width": "5.0.1",
+        "strip-ansi": "7.0.1",
+        "is-my-json-valid": "2.x",
+        "jsonpath-plus": "6.x",
+        "path": "0.x", 
+        "prettyjson": "1.x",
+        "request": "2.x",
+        "swagger-tools": "0.x", 
+        "xpath.js": "1.x"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "7.x",
+        "cucumber-html-reporter": "^5.2.0",
+        "eslint": "8.x",
+        "eslint-config-google": "0.x"
+    }
+}

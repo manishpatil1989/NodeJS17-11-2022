@@ -1,0 +1,225 @@
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 15:56:58 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"98159","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nluglw1JSeLL4QZNqB%2BpzbR5CWNSdJzgc6VRA%2Bys6%2BePCyTbYfZeU4EUGRX0ls4J5ieb6uYL67jq%2FNJspjo0Ushgkuehj1QtujKDOOtpRhVFoG84Uege9wk2jQcrsA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b16b727a6771f2-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 15:57:21 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"16478","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=9MnafqmNloSG4UOANbeozgIdIP9KrHOPJ6NcSFqqcbxv1Fju0O7UfY0cR%2BTGFYlr5QVLWy%2BuLC0aG9irmTXBTV8WowqGqFQW1n82YenAg3wpfdk12hdoqKJHNHOl%2Fw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b16c00dcc07729-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 15:57:33 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"98194","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=FVujCrqOwT6CSNfrkaQP9RjuXMGDe2Va53ZI0K1Q328BMZREp0HPlp4ux%2FER96e1BH%2F078%2F9mNRcE92f63FtP9PvM5mISNUBc1THvwxcNHC9jN63Hr1TMT0OamhBWw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b16c4ee8fb72bb-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 15:58:21 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"98242","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=CBR7UDIr6FgO6Dzl8%2BZg%2FuS4JvSwXf%2BEiatYSIJGU4v6Q%2BOsz9CLa89AxL8pznk1UMpeLs1tKRGW4FozMzUZwv00kRmRTIY2ZrQDi1L%2FXM1sgFzfGWg0Ri8XBEwznw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b16d794cbd71f0-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 16:00:50 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"98182","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=VA1xBYY3pOOT19%2BkcGpOxpGUggdUzaWVcqfEd7bCKUozBbDP3H4fBKUTSLvaVrdLIg3Wnjz027hLaTSw1u4ZyikwBvaGjvkU8x5NjvVELyZb06xb96jCGt9hD6n13w%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b1711998f8dc31-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 16:01:18 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"13610","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=RWxvSsf%2B%2FfGBVIduGMoruPnnjPbiq9EaC3y9%2FVk3e4nvCwxv6VYjf9S7tB8YAtz5BS7LIqeqiUb7WIHSY5WMOnUkXp58%2FA25L3Aq%2BtoldoagxBAmq%2FW3vCG%2FgG9E5Q%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b171ca5b787427-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{}
+
+--------------------------------------------API Status Code-------------
+API Response Code- undefined
+
+--------------------------------------------API Response----------------
+undefined
+
+--------------------------------------------API Response Headers-----------
+undefined
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{}
+
+--------------------------------------------API Status Code-------------
+API Response Code- undefined
+
+--------------------------------------------API Response----------------
+undefined
+
+--------------------------------------------API Response Headers-----------
+undefined
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 16:50:15 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"19652","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=BBz0ASqArONXRWnhybujd3eNaBudLyKFQRVE3hJkvnIBaLN%2Bi1OqY0qKLXhKJqYXZh3yvCyboYB3KeJK57gNqoMBEal5ZUWmdg9DeWsMU0gg%2B6Ru79hOcUK97Cpe7w%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b1b97e9cb74058-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 17:04:25 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"101997","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=YOGQdl2%2FDOemFmhSLbRKoMtdKLmGVfh%2FktjWO22iw9NMLNMebKSl7d56Lw86hqewlJpiNUnWd98K9XM0tg1YED4eG54k%2FE8Z22eQUU7rfRx9Lv%2FdCPK0KuwdrHuLeg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b1ce3c3e30dd78-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{}
+
+--------------------------------------------API Status Code-------------
+API Response Code- undefined
+
+--------------------------------------------API Response----------------
+undefined
+
+--------------------------------------------API Response Headers-----------
+undefined
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 17:13:58 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"102779","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=02NK6FdfdE9gdHwAu0Sj8IPb3nllFXMPlknhdlR%2FHCty%2B%2BdQcDqhAIL3vffrtjwyyIExYVa4fI9s3CKtPABmLVLHMfMprVzrHr8LAmO5jyizclTWi%2BgP3WA5nB89Uw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b1dc39ef39886d-LHR"}
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{}
+
+--------------------------------------------API Status Code-------------
+API Response Code- undefined
+
+--------------------------------------------API Response----------------
+undefined
+
+--------------------------------------------API Response Headers-----------
+undefined
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{}
+
+--------------------------------------------API Status Code-------------
+API Response Code- undefined
+
+--------------------------------------------API Response----------------
+undefined
+
+--------------------------------------------API Response Headers-----------
+undefined
+----------------------------------------------------------------------------
+
+
+
+ ---------------------------------------API Request----------------
+{"url":"https://postcodes.io/postcodes/SL38NY/","method":"GET","headers":{"Content-Type":"application/json,application/json","Accept":"application/json"},"qs":{},"jar":{"_jar":{"version":"tough-cookie@2.5.0","storeType":"MemoryCookieStore","rejectPublicSuffixes":true,"cookies":[]}},"followRedirect":false}
+
+--------------------------------------------API Status Code-------------
+API Response Code- 200
+
+--------------------------------------------API Response----------------
+"{\"status\":200,\"result\":{\"postcode\":\"SL3 8NY\",\"quality\":1,\"eastings\":501129,\"northings\":179002,\"country\":\"England\",\"nhs_ha\":\"South Central\",\"longitude\":-0.544448,\"latitude\":51.500918,\"european_electoral_region\":\"South East\",\"primary_care_trust\":\"Berkshire East\",\"region\":\"South East\",\"lsoa\":\"Slough 012C\",\"msoa\":\"Slough 012\",\"incode\":\"8NY\",\"outcode\":\"SL3\",\"parliamentary_constituency\":\"Slough\",\"admin_district\":\"Slough\",\"parish\":\"Slough, unparished area\",\"admin_county\":null,\"admin_ward\":\"Langley Kedermister\",\"ced\":null,\"ccg\":\"NHS Frimley\",\"nuts\":\"Berkshire\",\"codes\":{\"admin_district\":\"E06000039\",\"admin_county\":\"E99999999\",\"admin_ward\":\"E05009348\",\"parish\":\"E43000235\",\"parliamentary_constituency\":\"E14000930\",\"ccg\":\"E38000252\",\"ccg_id\":\"D4U1Y\",\"ced\":\"E99999999\",\"nuts\":\"TLJ11\",\"lsoa\":\"E01016502\",\"msoa\":\"E02003418\",\"lau2\":\"E06000039\"}}}"
+
+--------------------------------------------API Response Headers-----------
+{"date":"Wed, 16 Nov 2022 17:17:11 GMT","content-type":"application/json; charset=utf-8","content-length":"838","connection":"keep-alive","x-gnu":"Michael J Blanchard","access-control-allow-origin":"*","etag":"W/\"346-H5QlVrQOk1Ssbkd1QrSLEkfSJ7E\"","cf-cache-status":"HIT","age":"21268","accept-ranges":"bytes","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AAp2%2BWadzrQGJkQXiFCBaCe%2FhW2I4WOAzstCp96IxvB2rn64%2FdLkTFDSOBeXfjM875QYL%2Bl0nYaHW4Ezc9BqlFChU2mUpDeRVXfOk8JDZU7NfA32FzYrf6TOt%2BCRSQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}","nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","server":"cloudflare","cf-ray":"76b1e0efecaf76db-LHR"}
+----------------------------------------------------------------------------
